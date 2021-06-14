@@ -33,8 +33,8 @@ This challenge was interesting. Had fun doing it.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/codewithrishu/profile-card-component-main.git)
+- Live Site URL: (https://codewithrishu.github.io/profile-card-component-main/)
 
 ## My process
 1. added background image
