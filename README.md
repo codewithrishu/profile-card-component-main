@@ -8,6 +8,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [screenshot](#the-screenshor)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -26,7 +27,8 @@ This challenge was interesting. Had fun doing it.
 - Build out the project to the designs provided
 
 ### Screenshot
-![image](https://user-images.githubusercontent.com/77292616/121937059-e9a28580-cd67-11eb-9aea-0875e88eb584.png)
+![image](https://user-images.githubusercontent.com/77292616/121937339-371ef280-cd68-11eb-9136-27492f464776.png)
+
 
 
 ### Links
